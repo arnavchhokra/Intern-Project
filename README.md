@@ -72,4 +72,3 @@ A web application to fetch and display Reddit thread data using Django (backend)
 
 ---
 
-You can copy and paste this README content into a file named `README.md` in the root directory of your project. Remember to customize any placeholders and paths according to your actual project structure and requirements.
